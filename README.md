@@ -10,3 +10,5 @@ Con el calificador "in" puedes restringir tu búsqueda al nombre del repositorio
 Los repositorios son almacenamiento en la nube que permite qña los desarrolladores 
 Tener una perspectiva dónde todo proyecto puede tener alimentación
 Y cambios para cada proceso y etapa del mismo.
+Los repositorios alcanzan gran importancia, pues permiten enriquecer la visión de los autores en cuanto a difundir y preservar datos de sus investigaciones y garantizar
+Así el acceso a largo plazo. 
